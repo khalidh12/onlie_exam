@@ -33,7 +33,7 @@ gem 'will_paginate', '~> 3.1.0'
 gem 'will_paginate-bootstrap'
 
 # gem 'kaminari'
-gem 'passenger', '~> 5.0', '>= 5.0.30'
+gem 'passenger', '~> 5.3'
 
 gem "recaptcha", require: "recaptcha/rails"
 gem 'carrierwave', '~> 1.0'
